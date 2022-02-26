@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the establishing an High Court of Justice. Together with 1. An act prohibiting the proclaiming of any person to be king over England or Ireland, or the dominions thereof. 2. An act declaring what offences shall be adjudged treason. 3. An another act declaring what offences shall be adjudged treason. 4. An act for a seal of the Parliament of the Commonwealth of England. Tuesday the 22th of November, 1653. Ordered by the Parliament, that this act passed yesterday, entituled, An act for the establishing an High Court of Justice, be forthwith printed and published: and that the several other acts therein mentioned be printed therewith. Hen: Scobell, Clerk of the Parliament.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74486</idno>
+            <idno type="STC">Thomason E1062_26</idno>
+            <idno type="STC">ESTC R209424</idno>
+            <idno type="EEBO-CITATION">99868306</idno>
+            <idno type="PROQUEST">99868306</idno>
+            <idno type="VID">169164</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169164)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1062[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the establishing an High Court of Justice. Together with 1. An act prohibiting the proclaiming of any person to be king over England or Ireland, or the dominions thereof. 2. An act declaring what offences shall be adjudged treason. 3. An another act declaring what offences shall be adjudged treason. 4. An act for a seal of the Parliament of the Commonwealth of England. Tuesday the 22th of November, 1653. Ordered by the Parliament, that this act passed yesterday, entituled, An act for the establishing an High Court of Justice, be forthwith printed and published: and that the several other acts therein mentioned be printed therewith. Hen: Scobell, Clerk of the Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 191-204 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Field, Printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also issued as part of a through-paged folio set.</note>
+                  <note>Text in black letter.</note>
+                  <note>Annotation on Thomason copy: "Novemb 24:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Courts --  England --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Monarchy --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169164:1" rendition="simple:additions"/>
+            <p>AN ACT For the Eſtabliſhing an High Court of Juſtice.</p>
+            <p>Together with 1. An Act probibiting the proclaiming of any perſon to be King over <hi>England</hi> or <hi>Ireland,</hi> or the Dominions thereof.</p>
+            <p>2. An Act declaring what Offences ſhall be adjudged Treaſon.</p>
+            <p>3. An another Act declaring what Offences ſhall be adjudged Treaſon.</p>
+            <p>4. An Act for a Seal of the Parliament of the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England.</hi>
+            </p>
+            <figure>
+               <figDesc>blazon of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Tueſday the 22<hi rend="sup">th</hi> of <hi>November,</hi> 1653.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Parliament, That the Act paſſed yeſterday, En<g ref="char:EOLhyphen"/>tituled, <hi>An Act for the Eſtabliſhing an High Court of Ju<g ref="char:EOLhyphen"/>ſtice,</hi> be forthwith Printed and Publiſhed: and that the ſeveral other Acts therein mentioned be printed therewith.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Clerk of the Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Iohn Field,</hi> Printer to the Parliament of <hi>ENGLAND.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:169164:2"/>
+            <pb n="191" facs="tcp:169164:2"/>
+            <head>
+               <figure>
+                  <figDesc>blazon of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>AN ACT FOR THE ESTABLISHING AN High Court of Juſtice.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the preſervation of the Com<g ref="char:EOLhyphen"/>mon Peace, and for the better preventing of the Miſeries of a new &amp; bloody war, endeavored to be ſtirred up by wicked practi<g ref="char:EOLhyphen"/>ces and correſpondencies of the Enemies of this Commonwealth (notwith<g ref="char:EOLhyphen"/>ſtanding the manifold witneſs which the righteous Lord our God hath born againſt them and their curſed Deſigns;) And to the end and effectual courſe may be ſetled for the timely puniſhing of any Actors or Contrivers in ſuch pernicious ways, whereby others may hear and fear, and do no more ſo; Be it En<g ref="char:EOLhyphen"/>acted by this preſent parliament, and by the Authority of the ſame, That <hi>John Liſle</hi> one of the Lords Commiſſioners for the Great Seal of <hi>England, John Bradſhaw</hi> Serjeant at Law,
+<pb n="192" facs="tcp:169164:3"/>
+               <hi>Charls-George Cock</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Matthew Sheppard</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Underwood</hi> Alderman of <hi>London, John Hayes</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>George Langham</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Maurice Thomp<g ref="char:EOLhyphen"/>ſon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Richard Shute</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Mark Hildeſley</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Allein</hi> Alderman of <hi>London, Daniel Tay<g ref="char:EOLhyphen"/>lor</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Edmond Waring</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Blackwel</hi> the yonger <abbr>Eſq</abbr> 
+               <hi>Nicholas Juxon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Roger Frith</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Nathaniel Whetham</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Edward Creſſet</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Ralph Harriſon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Benjamin Valentine</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Wil<g ref="char:EOLhyphen"/>liam Web</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Owen Row</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Andrews</hi> Alderman of <hi>London, John Hardwick</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Ri<g ref="char:EOLhyphen"/>chard Arnold</hi> 
+               <abbr>Eſq</abbr> Sir <hi>John Thorowgood</hi> of <hi>Ken<g ref="char:EOLhyphen"/>ſington</hi> Knight, <hi>Abraham Babington</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Richard Moor</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Edward Whaley</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Goff</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Okey</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Thomas Juxon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Mark Coe</hi> 
+               <abbr>Eſq</abbr> or any thirteen or more of them, ſhall be Commiſſioners, and ſhall have full power and authority, and are hereby authorized and re<g ref="char:EOLhyphen"/>quired to hear and determine all ſuch Mat<g ref="char:EOLhyphen"/>ters, Crimes and Offences as are given them in charge by this preſent Act; and to proceed to the Tryal, Condemnation and Erecution of the Offender and Offenders, and to inflict upon him, her or them, ſuch puniſhment, either by Death, Fine, Impriſonment, or other corpo<g ref="char:EOLhyphen"/>ral puniſhment, as the ſaid Commiſsioners or the major part of them then preſent ſhall judge to appertain to Juſtice, according to the nature of the Offence. And firſt, the ſaid Commiſsioners ſhall have power to proceed againſt any perſon or perſons for the ſeveral Offences mentioned in one Act of the late Parliament, ordered to be printed the Thir<g ref="char:EOLhyphen"/>tieth day of <hi>January,</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty and Eight, Entituled, <hi>An Act pro<g ref="char:EOLhyphen"/>hibiting the Proclaiming of any perſon to be King of <hi>England</hi> or <hi>Ireland,</hi> or the Dominions thereof.</hi> Se<g ref="char:EOLhyphen"/>condly,
+<pb n="193" facs="tcp:169164:3"/>
+The ſaid Commiſsioners ſhall have power to proceed againſt any perſon or per<g ref="char:EOLhyphen"/>ſons for the ſeveral Offences mentioned in two Acts of the ſaid late Parliament, each of them Entituled, <hi>An Act declaring what Offences ſhall be adjudged Treaſon;</hi> the one ordered to be printed the fourteenth day of <hi>May,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred forty and nine; and the other ordered to be printed the Seventeenth day of <hi>July,</hi> in the ſaid year One thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty and nine. Thirdly, The ſaid Com<g ref="char:EOLhyphen"/>miſſioners ſhall have power to proceed againſt any perſon or perſons for the ſeveral Offen<g ref="char:EOLhyphen"/>ces mentioned in one other Act of the late Parliament, ordered to be printed the Two and twentieth day of <hi>January,</hi> One thouſand ſix hundred and fifty, Entituled, <hi>An Act for a Seal of the Parliament of the Commonwealth of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </hi> Fourthly, The ſaid Commiſsioners ſhall have power to proceed againſt any perſon or perſons that have, or ſhall Plot, Contrive, or Endeabor the Betraying, Surrendring, or Yielding up any Cities, Towns, Forts, Ma<g ref="char:EOLhyphen"/>gazines, Ships, Ueſſels or Forces by Sea or Land, belonging to this Commonwealth; which ſaid Offences ſhall be puniſhed with Death.</p>
+            <p>And it is hereby Enacted by the Authority aforeſaid, That the ſaid Commiſsioners, or any thirteen or more of them, ſhall be, and are hereby authorized and conſtituted an high Court of Juſtice, to meet and ſit at ſuch con<g ref="char:EOLhyphen"/>venient time and place from time to time, as by the ſaid Commiſsioners or the major part of thirteen or more of them, under their hands and Seals, ſhall be appointed and no<g ref="char:EOLhyphen"/>tified by publique Proclamation in the Great
+<pb n="194" facs="tcp:169164:4"/>
+hall or Palace Yard at <hi>Weſtminſter,</hi> and to adjourn from time to time and place to place, as, the ſaid high Court or the major part thereof meeting ſhall hold fit; and to take order for the charging of Offenders, with all or any of the Crimes, matters and things contained and impowred by this preſent Act, and for the receiving their perſonal anſwer thereunto; and for the examination of wit<g ref="char:EOLhyphen"/>neſſes upon Oath (which the Court hath hereby authority to adminiſter) or otherwiſe, and taking any other Evidence concerning the ſame: And thereupon, or in default of ſuch anſwer, to proceed to final Sentence, according to Juſtice and the Merit of the Cauſe, and ſuch final Sentence to execute or cauſe to be executed ſpeedily and im<g ref="char:EOLhyphen"/>partially: And the ſaid Commiſsioners, or any thirteen or more of them, ſhall have power and authority to appoint all Officers needful for the putting in execution the mat<g ref="char:EOLhyphen"/>ter and things in this Act contained.</p>
+            <p>And it is hereby further Enacted, That all Majors, Sheriffs, Juſtices of the Peace, Conſtables, Bayliffs and other Officers; and all Officers and Soldiers of the Army, and other the good people of this Commonwealth, ſhall be ayding and aſſiſting to the ſaid Com<g ref="char:EOLhyphen"/>miſsioners in any of the premiſes.</p>
+            <p>And be it further Enacted, That every of the Commiſsioners beforenamed, before he ſhall do or execute the Office of a Commiſsi<g ref="char:EOLhyphen"/>oner by vertue of this preſent Act, ſhal take the Oath enſuing; <hi>viz.</hi>
+            </p>
+            <q>
+               <pb n="195" facs="tcp:169164:4"/>
+YOu ſhall ſwear, That you ſhall well and truly, according to the beſt of your skill and knowledge, execute the ſeveral Powers given unto you by this preſent Act.</q>
+            <p>And the Lords Commiſsioners for the Great Seal of <hi>England,</hi> or any one of them, are hereby authorized to adminiſter the ſaid Oath accordingly.</p>
+            <p>Provided, That this Act nor any thing therein contained, ſhall extend to the diminiſh<g ref="char:EOLhyphen"/>ing or leſſening any power or authority for<g ref="char:EOLhyphen"/>merly given to the Lord General or his Coun<g ref="char:EOLhyphen"/>cel of War, or to the Generals at Sea by au<g ref="char:EOLhyphen"/>thority of Parliament, for the execution of Martial Law.</p>
+            <p>Provided alſo, That this Act, and the au<g ref="char:EOLhyphen"/>thority hereby given, ſhall indure and have continuance to the firſt day of <hi>Auguſt,</hi> One thouſand ſix hundred fifty and four, and no longer.</p>
+            <closer/>
+            <postscript>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Monday</hi> the 21 of <hi>November,</hi> 1653.</date>
+                  </dateline>
+               </opener>
+               <p>ORdered by the Parliament, That this Act be forth with printed and publiſhed.</p>
+               <closer>
+                  <signed>Hen: Scobell, Clerk of the Parliament.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="Act_of_Parliament">
+            <head>An Act prohibiting the Proclaiming of any perſon to be King of <hi>England</hi> or <hi>Ireland,</hi> or the Dominions thereof.</head>
+            <p>WHereas <hi>Charls Stuart</hi> King of <hi>England,</hi> be<g ref="char:EOLhyphen"/>ing for the notorious Treaſons, Tyran<g ref="char:EOLhyphen"/>nies and Murthers committed by him in the
+<pb n="196" facs="tcp:169164:5"/>
+late Unnatural and Cruel wars condemn<g ref="char:EOLhyphen"/>ed to death; whereupon, after Execution of the ſame, ſeveral protences may be made, and title ſet on foot unto the Kingly Office, to the apparent hazard of the publique Peace: for prevention thereof, Be it Enacted and Or<g ref="char:EOLhyphen"/>dained by this preſent Parliament, and by Authority of the ſame, That no perſon or per<g ref="char:EOLhyphen"/>ſons whatſoever do preſume to Proclaim, De<g ref="char:EOLhyphen"/>clare, Publiſh, or any way promote <hi>Charls Stuart,</hi> Son of the ſaid <hi>Charls,</hi> commonly cal<g ref="char:EOLhyphen"/>led, The Prince of <hi>Wales,</hi> or any other per<g ref="char:EOLhyphen"/>ſon to be King, or chief Magiſtrate of <hi>England,</hi> or of <hi>Ireland,</hi> or of any the Dominions be<g ref="char:EOLhyphen"/>longing to them or either of them, by colour of Inheritance, Succeſsion, Election, or any other Claim whatſoever, without the free conſent of the People in Parliament firſt had, and ſignified by a particular Act or Ordinance for that purpoſe, Any Statute, Law, Uſage or Cuſtom to the contrary hereof in any wiſe notwithſtanding.</p>
+            <p>And be it further Enacted and Ordained, and it is hereby Enacted and Ordained, That whoſoever ſhall contrary to this Act, Pro<g ref="char:EOLhyphen"/>claim, Declare, Publiſh, or any way promote the ſaid <hi>Charls Stuart</hi> the Son, or any other perſon to be King, or Chief Magiſtrate of <hi>England</hi> or of <hi>Ireland,</hi> or of any the Domini<g ref="char:EOLhyphen"/>ons belonging to them, or to either of them, without the ſaid conſent in Parliament ſig<g ref="char:EOLhyphen"/>nified as aforeſaid, ſhall be deemed and ad<g ref="char:EOLhyphen"/>judged a Traytor to the Commonwealth, and ſhall ſuffer pains of Death, and ſuch o<g ref="char:EOLhyphen"/>ther puniſhments as belong to the Crime of high Treaſon. And all Officers, as well Civil as Military, and all other well affected
+<pb n="197" facs="tcp:169164:5" rendition="simple:additions"/>
+perſons, are hereby authorized and required forthwith to apprehend all ſuch Offenders, and to bring them in ſafe Cuſtrody to the next Iuſtice of the Peace, that they may be pro<g ref="char:EOLhyphen"/>ceeded againſt accordingly.</p>
+            <closer/>
+            <postscript>
+               <opener>
+                  <dateline>
+                     <date>Die Martis, 30. Ianuarii, 1648.</date>
+                  </dateline>
+               </opener>
+               <p>ORdered by the Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, That this Act be forthwith Printed and Publiſhed.</p>
+               <closer>
+                  <signed>H: Scobell, (ler. Parl. D. Com.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="Act_of_Parliament">
+            <head>An Act declaring what Offences ſhall be adjudged Treaſon.</head>
+            <p>WHereas the Parliament hath aboli<g ref="char:EOLhyphen"/>ſhed the Kingly Office in <hi>England</hi> and <hi>Ireland,</hi> and in the Dominions and Territories thereunto belonging, and having Reſolved &amp; Declared, That the people ſhall for the future be governed by its own Re<g ref="char:EOLhyphen"/>preſentatives, or National meetings in Coun<g ref="char:EOLhyphen"/>cel, Choſen and Entruſted by them for that purpoſe, hath ſetled the Government in the way of a Commonwealth and Free State, without King or Houſe of Lords; Be it En<g ref="char:EOLhyphen"/>acted by this preſent Parliament, and by the authority of the ſame, That if any perſon ſhall maliciouſly or adviſedly publiſh by writing, Printing, or openly Declaring, That the ſaid Government is Tyrannical, Uſurped or Un<g ref="char:EOLhyphen"/>lawful; or that the Commons in Parliament aſſembled are not the Supreme Authority of this Nation; or ſhall plot, contrive, or endea<g ref="char:EOLhyphen"/>vor to ſtir up or raiſe force againſt the preſent Government, or for the ſubverſion or altera<g ref="char:EOLhyphen"/>tion
+<pb n="198" facs="tcp:169164:6"/>
+of the ſame, and ſhall declare the ſame by any open deed, That then every ſuch Offence ſhall be taken, deemed and adjudged, by authority of this Parliament, to be High Treaſon. And whereas the Keepers of the Liberty of <hi>England,</hi> and the Councel of State, conſtituted, and to be from time to time con<g ref="char:EOLhyphen"/>ſtituted by authority of Parliament, are to be under the ſaid Repreſentatives in Parlia<g ref="char:EOLhyphen"/>ment, entruſted for the maintenance of the ſaid Government, with ſeveral Powers and Authorities limited, given and appointed unto them by the Parliament; Be it likewiſe En<g ref="char:EOLhyphen"/>acted by the authority aforeſaid, That if any perſon ſhall maliciouſly and adviſedly plot or endeavor the ſubverſion of the ſaid Keepers of the Liberty of <hi>England,</hi> or the Councel of State, and the ſame ſhall declare by any open deed; or ſhall move any perſon or perſons for the doing thereof, or ſtir up the people to riſe againſt them or either of them, their or either of their Authorities, That then every ſuch Offence and Offences ſhall be taken, Deem<g ref="char:EOLhyphen"/>ed and Declared to be High Treaſon. And whereas the Parliament, for their juſt and lawful Defence, hath raiſed and levyed the Army and Forces now under the Command of <hi>Thomas</hi> Lord <hi>Fairfax,</hi> and are at preſent ne<g ref="char:EOLhyphen"/>ceſſitated, by reaſon of the manifold Diſtra<g ref="char:EOLhyphen"/>ctions within this Commonwealth, and In<g ref="char:EOLhyphen"/>vaſions threatned from abroad, to continue the ſame, which under God muſt be the inſtru<g ref="char:EOLhyphen"/>mental means of preſerving the well-affected people of this Nation in peace and ſafety; Be it further Enacted by the Authority aforeſaid, That if any perſon, not being an Officer, Soldier or Member of the Army, ſhall plot,
+<pb n="199" facs="tcp:169164:6"/>
+contrive, or endeavor to ſtir up any Mutiny in the ſaid Army, or withdraw any Soldiers or Officers from their obedience to their Su<g ref="char:EOLhyphen"/>perior Officers, or from the preſeut Govern<g ref="char:EOLhyphen"/>ment as aforeſaid; or ſhall procure, invite, ayd or aſſiſt any foreigners or Strangers to In<g ref="char:EOLhyphen"/>vade <hi>England</hi> or <hi>Ireland,</hi> or ſhall adhere to any Forces raiſed by the Enemies of the Parlia<g ref="char:EOLhyphen"/>ment or Commonwealth, or keepers of the Liberty of <hi>England,</hi> or if any perſon ſhall coun<g ref="char:EOLhyphen"/>terfeit the Great Seal of <hi>England</hi> (for the time being) uſed &amp; appointed by authority of Parli<g ref="char:EOLhyphen"/>ament, That then every ſuch offence and of<g ref="char:EOLhyphen"/>fences ſhall be taken, deemed and Declared by the authority of this Parliament to be High Treaſon; and every ſuch perſons ſhall ſuffer pains of Death, and alſo forfeit unto the Keepers of the Liberty of <hi>England,</hi> to and for the uſe of the Commonwealth, all and ſingu<g ref="char:EOLhyphen"/>lar his and their Lands, Tenements and He<g ref="char:EOLhyphen"/>reditaments, Goods and Chattels, as in caſe of High Treaſon hath been uſed by the Laws and Statutes of this Land to be forfeit and loſt. Provided always, That no perſons ſhall be Indicted and Arraigned for any of the Of<g ref="char:EOLhyphen"/>fences mentioned in this Act, unleſs ſuch Of<g ref="char:EOLhyphen"/>fenders ſhall be Indicted or Proſecuted for the ſame within one year after the Offence committed.</p>
+            <closer/>
+            <postscript>
+               <opener>
+                  <dateline>
+                     <date>Die Lunae, 14 Maii, 1649.</date>
+                  </dateline>
+               </opener>
+               <p>ORdered by the Parliament, That this Act be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+               <closer>
+                  <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb n="200" facs="tcp:169164:7"/>
+            <head>An Act declaring what Offences ſhall be adjudged Treaſon.</head>
+            <p>Whereas the Parliament hath aboli<g ref="char:EOLhyphen"/>ſhed the Kingly Office in <hi>England</hi> and <hi>Ireland,</hi> and in the Dominions and Territories thereunto belonging; and having Reſolved and Declared, That the people ſhall for the future be governed by its own Repreſentatives or National Meetings in Councel, thoſen and entruſted by them for that purpoſe, hath ſetled the Government in the way of a Commonwealth and Free-State, without King or houſe of Lords: Be it enarted by this preſent Parliament, and by the Authority of the ſame, That if any perſon ſhall malitiouſly or adviſedly pub<g ref="char:EOLhyphen"/>liſh, by Writing, Printing, or openly Decla<g ref="char:EOLhyphen"/>ring, That the ſaid Government is Tyranni<g ref="char:EOLhyphen"/>cal, Uſurped or Unlawful; or that the Com<g ref="char:EOLhyphen"/>mons in Parliament aſſembled are not the Supream Authority of this Nation; or ſhall plot, Contribe or Endeavor to ſtir up, or raiſe force againſt the preſent Government, or for the Subberſion or Alteration of the ſame, and ſhall declare the ſame by any open deed, That then every ſuch Offence ſhall be taken, deem<g ref="char:EOLhyphen"/>ed and adjudged by Authority of this Par<g ref="char:EOLhyphen"/>liament to be high Treaſon. And where<g ref="char:EOLhyphen"/>as <hi>The Keepers of the Liberty of <hi>England,</hi>
+               </hi> and the <hi>Councel of State</hi> conſtituted, and to be from time to time conſtituted by Authority of Parlia<g ref="char:EOLhyphen"/>ment, are to be under the ſaid Repreſenta<g ref="char:EOLhyphen"/>tives in Parliament, entruſted for the Main<g ref="char:EOLhyphen"/>tenance of the ſaid Government, with ſeveral Powers and Authorities limited, given and
+<pb n="201" facs="tcp:169164:7"/>
+appointed unto them by the Parliament, By it likewiſe Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That if any perſon ſhall malietouſly and adbiſedly plot or endeavor the ſubverſion of the ſaid Keepers of the Liberty of <hi>England,</hi> or the Councel of State, and the ſame ſhall de<g ref="char:EOLhyphen"/>clare by any open deed, or ſhall move any per<g ref="char:EOLhyphen"/>ſon or perſons for the doing thereof, or ſtir up the people to riſe againſt them, or either of them, their or either of their Authorities, That then every ſuch Offence and Offences ſhall be taken, deemed and declared to be high Treaſon.</p>
+            <p>And whereas the Parliament, for their juſt and lawful defence, hath raiſed and levyed the Army and fortes now under the Com<g ref="char:EOLhyphen"/>mand of <hi>Thomas</hi> Lord <hi>Fairfax,</hi> and are at pre<g ref="char:EOLhyphen"/>ſent neceſsitated, by reaſon of the manifold Diſtractions within this Commonwealth, and Invaſions threatned from abroad, to continue the ſame, which under God, muſt be the inſtrumental Means of preſerving the Well-affected people of this Nation in peace and ſafety; Be it further Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That if any perſon, not be<g ref="char:EOLhyphen"/>ing an Officer, Soldier or Member of the Army, ſhall plot, contrive or endeavor to ſtit up any Mutiny in the ſaid Army, or with<g ref="char:EOLhyphen"/>draw any Soldiers or Officers from their obedrence to their Superior Officers, or from the preſent Government as aforeſaid; or ſhall procure, invite, aid or aſsiſt any foreigners or Strangers to invade <hi>England</hi> or <hi>Ireland;</hi> or ſhall athere to any forces raiſed by the Ene<g ref="char:EOLhyphen"/>mies of the Parliament or Commonwealth, or Keepers of the Liberty of <hi>England;</hi> or if any perſon ſhall counterſeit the Great Seal of
+<pb n="202" facs="tcp:169164:8"/>
+               <hi>England</hi> for the time being, uſed and appointed by Authority of Parliament, That then eve<g ref="char:EOLhyphen"/>ry ſuch Offence and Offences ſhall be taken, dremed and declared by Authority of this Parliament, to be high Treaſon; and every ſuch perſon ſhall ſuffer pains of death, and alſo forfeit unto the Keepers of the Liberty of <hi>England,</hi> to and for the uſe of the Common<g ref="char:EOLhyphen"/>wealth, all and ſingular his and their Lands, Tenements and here ditaments, Goods and Chattels, as in caſe of high Treaſon hath been uſed by the Laws and Statutes of this Land to be forfeit and loſt. Provided always, That no perſon ſhall be indicted and ar<g ref="char:EOLhyphen"/>raigned for any of the Offences mentioned in this Act, unleſs ſuch Offenders ſhall be indi<g ref="char:EOLhyphen"/>cted and proſecuted for tht ſame within one year after the Offence committed.</p>
+            <p>And be it further Enacted by the authority aforeſaid, That if any perſon ſhall counterfeit the Money of this Commonwealth, or ſhall bring any falſe Money into this Land, coun<g ref="char:EOLhyphen"/>terſeit or other, like to the Mouey of this Commonwealth, knowing the Money to be falſe, to merchandize or make payment in de<g ref="char:EOLhyphen"/>teit of the people of this Nation; or if any perſon ſhall hereaſter falſly forge and coun<g ref="char:EOLhyphen"/>terſeit any ſuch kinde of Coyn of Gold or Sil<g ref="char:EOLhyphen"/>ver, as is not the proper Coyn of this Com<g ref="char:EOLhyphen"/>monwealth, and is or ſhall be currant within this Nation, by conſent of the Parliament, or ſuch as ſhall be by them authorized thereunto; or ſhall bring from the parts beyond the Seas into this Commonwealth, or into any the Dominions of the ſame, any ſuch falſe and counterfeit Coyn of Money, being currant within the ſame as is aboveſaid, knowing the
+<pb n="203" facs="tcp:169164:8"/>
+ſame Money to be falſe and counterfeit, to the intent to utter or make payment with the ſame within this Commonwealth, by Mer<g ref="char:EOLhyphen"/>chandize or otherwiſe; or if any perſon ſhall Impair, Diminiſh, falſifie, Clip, Waſh, Round or file, Scale or Lighten, for wicked lucre or gains ſake, any the proper Moneys or Coyns of this Commonwealth, or the Dominions thereof, or of the Moneys or Coyns of any other Realm, alowed and ſuffered to be cut<g ref="char:EOLhyphen"/>rant within this Commonwealth, or the Do<g ref="char:EOLhyphen"/>minions thereof, That then all and every ſuch Offences above mentioned, ſhall be and are hereby deemed and adjudged high Treaſon, and the Offenders therein, their councellors, procurers, ayders and abettors, being convi<g ref="char:EOLhyphen"/>cted according to the Laws of this Nation of any of the ſaid Offences, ſhall be deemed and adjudged Traytors againſt this Com<g ref="char:EOLhyphen"/>monwealth, and ſhall ſuffer and have ſuch pains of Death, and forfeitures as in caſe of high Treaſon is uſed and ordained. Provided always, and be it Enacted by the Authority aforeſaid, That this Act touching the Mo<g ref="char:EOLhyphen"/>neys and Coyns aforeſaid, or any thing there<g ref="char:EOLhyphen"/>in contained, nor any Attainder of any perſon for the ſame, ſhall in any wiſe extend or be judged to make any corruption of Blood, to any the heir or heirs of any ſuch Offender, or to make the Wife of any ſuch Offender to loſe or forfeir her Dower, of or in any Lands, Te<g ref="char:EOLhyphen"/>nements or hereditaments, or her Title, Action or Intereſt in the ſame.</p>
+            <closer/>
+            <postscript>
+               <opener>
+                  <dateline>
+                     <date>Die Martis, 17 Iulii, 1649.</date>
+                  </dateline>
+               </opener>
+               <p>ORdered by the Parliament, That this Act be forth<g ref="char:EOLhyphen"/>with printed and publiſhed.</p>
+               <closer>
+                  <signed>Hen: Scobell, Clerk of the Parliament.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb n="204" facs="tcp:169164:9" rendition="simple:additions"/>
+            <head>An Act for a Seal of the Parliament of the Commonwealth of <hi>England.</hi>
+            </head>
+            <p>
+               <hi>BE</hi> it Enacted by this preſent Parliament, That the Seal engraven with the Arms of <hi>England</hi> and <hi>Ireland</hi> (that is to ſay, A Croſs and a harp) with this Inſcription in the Circle, That is to ſay <hi>(The Seal of the Par<g ref="char:EOLhyphen"/>liament of the Commonwealth of England)</hi> ſhall be the Seal of the Parliament of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England,</hi> to be onely uſed by Order of Parliament.</p>
+            <p>And be it further Enacted, That whoſo<g ref="char:EOLhyphen"/>ever ſhall counterfeit the ſame, ſhall be ad<g ref="char:EOLhyphen"/>judged and taken to be guilty of high Trea<g ref="char:EOLhyphen"/>ſon, and ſhall be tryed in ſuch maner, and un<g ref="char:EOLhyphen"/>dergo the like penalties as are appointed by any Act of Parliament in caſe of high Trea<g ref="char:EOLhyphen"/>ſon.</p>
+            <closer/>
+            <postscript>
+               <opener>
+                  <dateline>
+                     <date>Die Mercurii, 22. Iannarii, 1650.</date>
+                  </dateline>
+               </opener>
+               <p>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</p>
+               <closer>
+                  <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
